@@ -1,0 +1,8 @@
+setuptools>=68.0.0
+wheel>=0.41.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+faiss-cpu>=1.7.4
+sentence-transformers==2.7.0
+numpy<2.0.0,>=1.24.0
+nltk==3.9.1
